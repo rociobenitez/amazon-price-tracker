@@ -118,6 +118,10 @@ Puedes configurar este script para que se ejecute automáticamente en **PythonAn
    - Inicia sesión en [PythonAnywhere](https://www.pythonanywhere.com/).
    - Ve a la pestaña **Files** y sube los archivos del proyecto.
 
+<p align="center">
+   <img src="./img/files-pythonanywhere.png" alt="Archivos en PythonAnywhere" width="70%">
+</p>
+
 2. **Instala las dependencias:**
    - Abre una consola Bash en PythonAnywhere.
    - Ve al directorio de tu proyecto y ejecuta:
@@ -132,6 +136,10 @@ Puedes configurar este script para que se ejecute automáticamente en **PythonAn
      python3 /home/tu_usuario/amazon-price-tracker/main.py
      ```
    - Define la periodicidad (por ejemplo, cada hora).
+
+<p align="center">
+   <img src="./img/tasks-pythonanywhere.png" alt="Tarea programada en PythonAnywhere" width="70%">
+</p>
 
 4. **Revisa los logs:**
    - Ve a **Tasks > Log files** para verificar la salida del script.
