@@ -1,0 +1,30 @@
+# Ignorar el archivo .env (variables de entorno)
+.env
+
+# Ignorar archivos de configuración del entorno virtual
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignorar carpetas del entorno virtual
+env/
+venv/
+
+# Ignorar logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Ignorar configuraciones de IDEs comunes
+.vscode/
+.idea/
+*.swp
+
+# Ignorar archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de backup
+*.bak
+*.old
+*~
